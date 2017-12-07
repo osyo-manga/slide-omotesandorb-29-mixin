@@ -650,7 +650,7 @@ p x.fibonacci 40
 - - -
 
 * [今更聞けない! Ruby の継承と mixin の概念を継承リストから学ぶ - Secret Garden(Instrumental)](http://secret-garden.hatenablog.com/entry/2017/09/11/4756)
-* クラスとモジュールの違い - Secret Garden(Instrumental)]()
+* [クラスとモジュールの違い - Secret Garden(Instrumental)](http://secret-garden.hatenablog.com/entry/2017/12/07/001029)
 
 ---
 
